@@ -1,0 +1,14 @@
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\DefaultLambdaParameters\bin\Debug\net8.0\DefaultLambdaParameters.exe
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\DefaultLambdaParameters\bin\Debug\net8.0\DefaultLambdaParameters.deps.json
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\DefaultLambdaParameters\bin\Debug\net8.0\DefaultLambdaParameters.runtimeconfig.json
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\DefaultLambdaParameters\bin\Debug\net8.0\DefaultLambdaParameters.dll
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\DefaultLambdaParameters\bin\Debug\net8.0\DefaultLambdaParameters.pdb
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\DefaultLambdaParameters\obj\Debug\net8.0\DefaultLambdaParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\DefaultLambdaParameters\obj\Debug\net8.0\DefaultLambdaParameters.AssemblyInfoInputs.cache
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\DefaultLambdaParameters\obj\Debug\net8.0\DefaultLambdaParameters.AssemblyInfo.cs
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\DefaultLambdaParameters\obj\Debug\net8.0\DefaultLambdaParameters.csproj.CoreCompileInputs.cache
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\DefaultLambdaParameters\obj\Debug\net8.0\DefaultLambdaParameters.dll
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\DefaultLambdaParameters\obj\Debug\net8.0\refint\DefaultLambdaParameters.dll
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\DefaultLambdaParameters\obj\Debug\net8.0\DefaultLambdaParameters.pdb
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\DefaultLambdaParameters\obj\Debug\net8.0\DefaultLambdaParameters.genruntimeconfig.cache
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\DefaultLambdaParameters\obj\Debug\net8.0\ref\DefaultLambdaParameters.dll

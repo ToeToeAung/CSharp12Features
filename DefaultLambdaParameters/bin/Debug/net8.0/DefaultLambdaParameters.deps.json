@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DefaultLambdaParameters/1.0.0": {
+        "runtime": {
+          "DefaultLambdaParameters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DefaultLambdaParameters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

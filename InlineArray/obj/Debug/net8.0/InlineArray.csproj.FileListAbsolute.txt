@@ -1,0 +1,14 @@
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\InlineArray\bin\Debug\net8.0\InlineArray.exe
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\InlineArray\bin\Debug\net8.0\InlineArray.deps.json
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\InlineArray\bin\Debug\net8.0\InlineArray.runtimeconfig.json
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\InlineArray\bin\Debug\net8.0\InlineArray.dll
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\InlineArray\bin\Debug\net8.0\InlineArray.pdb
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\InlineArray\obj\Debug\net8.0\InlineArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\InlineArray\obj\Debug\net8.0\InlineArray.AssemblyInfoInputs.cache
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\InlineArray\obj\Debug\net8.0\InlineArray.AssemblyInfo.cs
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\InlineArray\obj\Debug\net8.0\InlineArray.csproj.CoreCompileInputs.cache
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\InlineArray\obj\Debug\net8.0\InlineArray.dll
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\InlineArray\obj\Debug\net8.0\refint\InlineArray.dll
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\InlineArray\obj\Debug\net8.0\InlineArray.pdb
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\InlineArray\obj\Debug\net8.0\InlineArray.genruntimeconfig.cache
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\InlineArray\obj\Debug\net8.0\ref\InlineArray.dll

@@ -1,0 +1,14 @@
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\ExperimentalAttr\bin\Debug\net8.0\ExperimentalAttr.exe
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\ExperimentalAttr\bin\Debug\net8.0\ExperimentalAttr.deps.json
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\ExperimentalAttr\bin\Debug\net8.0\ExperimentalAttr.runtimeconfig.json
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\ExperimentalAttr\bin\Debug\net8.0\ExperimentalAttr.dll
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\ExperimentalAttr\bin\Debug\net8.0\ExperimentalAttr.pdb
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\ExperimentalAttr\obj\Debug\net8.0\ExperimentalAttr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\ExperimentalAttr\obj\Debug\net8.0\ExperimentalAttr.AssemblyInfoInputs.cache
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\ExperimentalAttr\obj\Debug\net8.0\ExperimentalAttr.AssemblyInfo.cs
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\ExperimentalAttr\obj\Debug\net8.0\ExperimentalAttr.csproj.CoreCompileInputs.cache
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\ExperimentalAttr\obj\Debug\net8.0\ExperimentalAttr.dll
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\ExperimentalAttr\obj\Debug\net8.0\refint\ExperimentalAttr.dll
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\ExperimentalAttr\obj\Debug\net8.0\ExperimentalAttr.pdb
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\ExperimentalAttr\obj\Debug\net8.0\ExperimentalAttr.genruntimeconfig.cache
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\ExperimentalAttr\obj\Debug\net8.0\ref\ExperimentalAttr.dll

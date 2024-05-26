@@ -1,0 +1,14 @@
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\RefReadOnlyParameters\bin\Debug\net8.0\RefReadOnlyParameters.exe
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\RefReadOnlyParameters\bin\Debug\net8.0\RefReadOnlyParameters.deps.json
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\RefReadOnlyParameters\bin\Debug\net8.0\RefReadOnlyParameters.runtimeconfig.json
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\RefReadOnlyParameters\bin\Debug\net8.0\RefReadOnlyParameters.dll
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\RefReadOnlyParameters\bin\Debug\net8.0\RefReadOnlyParameters.pdb
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\RefReadOnlyParameters\obj\Debug\net8.0\RefReadOnlyParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\RefReadOnlyParameters\obj\Debug\net8.0\RefReadOnlyParameters.AssemblyInfoInputs.cache
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\RefReadOnlyParameters\obj\Debug\net8.0\RefReadOnlyParameters.AssemblyInfo.cs
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\RefReadOnlyParameters\obj\Debug\net8.0\RefReadOnlyParameters.csproj.CoreCompileInputs.cache
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\RefReadOnlyParameters\obj\Debug\net8.0\RefReadOnlyParameters.dll
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\RefReadOnlyParameters\obj\Debug\net8.0\refint\RefReadOnlyParameters.dll
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\RefReadOnlyParameters\obj\Debug\net8.0\RefReadOnlyParameters.pdb
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\RefReadOnlyParameters\obj\Debug\net8.0\RefReadOnlyParameters.genruntimeconfig.cache
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\RefReadOnlyParameters\obj\Debug\net8.0\ref\RefReadOnlyParameters.dll

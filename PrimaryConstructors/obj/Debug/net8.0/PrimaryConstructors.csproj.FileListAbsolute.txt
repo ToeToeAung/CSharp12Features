@@ -1,0 +1,14 @@
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\PrimaryConstructors\bin\Debug\net8.0\PrimaryConstructors.exe
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\PrimaryConstructors\bin\Debug\net8.0\PrimaryConstructors.deps.json
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\PrimaryConstructors\bin\Debug\net8.0\PrimaryConstructors.runtimeconfig.json
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\PrimaryConstructors\bin\Debug\net8.0\PrimaryConstructors.dll
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\PrimaryConstructors\bin\Debug\net8.0\PrimaryConstructors.pdb
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\PrimaryConstructors\obj\Debug\net8.0\PrimaryConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\PrimaryConstructors\obj\Debug\net8.0\PrimaryConstructors.AssemblyInfoInputs.cache
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\PrimaryConstructors\obj\Debug\net8.0\PrimaryConstructors.AssemblyInfo.cs
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\PrimaryConstructors\obj\Debug\net8.0\PrimaryConstructors.csproj.CoreCompileInputs.cache
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\PrimaryConstructors\obj\Debug\net8.0\PrimaryConstructors.dll
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\PrimaryConstructors\obj\Debug\net8.0\refint\PrimaryConstructors.dll
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\PrimaryConstructors\obj\Debug\net8.0\PrimaryConstructors.pdb
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\PrimaryConstructors\obj\Debug\net8.0\PrimaryConstructors.genruntimeconfig.cache
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\PrimaryConstructors\obj\Debug\net8.0\ref\PrimaryConstructors.dll

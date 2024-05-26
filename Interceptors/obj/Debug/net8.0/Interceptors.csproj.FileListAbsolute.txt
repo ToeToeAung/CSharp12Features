@@ -1,0 +1,14 @@
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\Interceptors\bin\Debug\net8.0\Interceptors.exe
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\Interceptors\bin\Debug\net8.0\Interceptors.deps.json
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\Interceptors\bin\Debug\net8.0\Interceptors.runtimeconfig.json
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\Interceptors\bin\Debug\net8.0\Interceptors.dll
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\Interceptors\bin\Debug\net8.0\Interceptors.pdb
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\Interceptors\obj\Debug\net8.0\Interceptors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\Interceptors\obj\Debug\net8.0\Interceptors.AssemblyInfoInputs.cache
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\Interceptors\obj\Debug\net8.0\Interceptors.AssemblyInfo.cs
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\Interceptors\obj\Debug\net8.0\Interceptors.csproj.CoreCompileInputs.cache
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\Interceptors\obj\Debug\net8.0\Interceptors.dll
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\Interceptors\obj\Debug\net8.0\refint\Interceptors.dll
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\Interceptors\obj\Debug\net8.0\Interceptors.pdb
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\Interceptors\obj\Debug\net8.0\Interceptors.genruntimeconfig.cache
+C:\Users\toeto\OneDrive\Desktop\CSharp12Features\Interceptors\obj\Debug\net8.0\ref\Interceptors.dll
